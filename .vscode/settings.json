@@ -1,0 +1,8 @@
+{
+  "appService.zipIgnorePattern": [
+    "node_modules{,/**}",
+    ".vscode{,/**}"
+  ],
+  "appService.defaultWebAppToDeploy": "/subscriptions/1ff6560f-1ccd-4f60-807a-b902a8c011b4/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/wildbook-dot-org-redirect",
+  "appService.deploySubpath": "."
+}
